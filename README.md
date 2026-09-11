@@ -16,3 +16,6 @@ Cleaned and transformed residential property data, analyzed relationships betwee
 ### Key Skills
 
 Data Cleaning • Statistical Analysis • SQL • Data Visualization • Python • R • Power BI
+
+Link to Power BI Dashbaord:
+https://app.powerbi.com/view?r=eyJrIjoiNTQzZGYyNjQtNzExYS00YzkyLWI2NDgtODYyZGY1YzNhZTBjIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9
